@@ -1,0 +1,6 @@
+{
+  "name": "OHMVEX | CAD Elétrico NBR 5410",
+  "description": "Sistema CAD elétrico residencial desktop offline com dimensionamento automatizado NBR 5410, roteamento de eletrodutos, diagrama unifilar e exportação/importação DXF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
